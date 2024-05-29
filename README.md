@@ -1,4 +1,4 @@
-SIMPLE WEB SERVER
+SIMPLE WEB SERVER - SERVERKU (SERVER KAMPUS UDINUS)
 
 Berikut tampilan UI dari Web Server:
 - Control Panel
